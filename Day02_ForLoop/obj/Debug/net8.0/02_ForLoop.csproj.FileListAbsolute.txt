@@ -1,0 +1,14 @@
+F:\GameDeveloperLearning\02_ForLoop\bin\Debug\net8.0\02_ForLoop.exe
+F:\GameDeveloperLearning\02_ForLoop\bin\Debug\net8.0\02_ForLoop.deps.json
+F:\GameDeveloperLearning\02_ForLoop\bin\Debug\net8.0\02_ForLoop.runtimeconfig.json
+F:\GameDeveloperLearning\02_ForLoop\bin\Debug\net8.0\02_ForLoop.dll
+F:\GameDeveloperLearning\02_ForLoop\bin\Debug\net8.0\02_ForLoop.pdb
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.AssemblyInfo.cs
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.dll
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\refint\02_ForLoop.dll
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.pdb
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\02_ForLoop.genruntimeconfig.cache
+F:\GameDeveloperLearning\02_ForLoop\obj\Debug\net8.0\ref\02_ForLoop.dll
