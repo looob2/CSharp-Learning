@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day03_WhileRandom\bin\Debug\net8.0\Day03_WhileRandom.exe
+F:\GameDeveloperLearning\Day03_WhileRandom\bin\Debug\net8.0\Day03_WhileRandom.deps.json
+F:\GameDeveloperLearning\Day03_WhileRandom\bin\Debug\net8.0\Day03_WhileRandom.runtimeconfig.json
+F:\GameDeveloperLearning\Day03_WhileRandom\bin\Debug\net8.0\Day03_WhileRandom.dll
+F:\GameDeveloperLearning\Day03_WhileRandom\bin\Debug\net8.0\Day03_WhileRandom.pdb
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.sourcelink.json
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.dll
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\refint\Day03_WhileRandom.dll
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.pdb
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\Day03_WhileRandom.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day03_WhileRandom\obj\Debug\net8.0\ref\Day03_WhileRandom.dll
