@@ -74,7 +74,7 @@ while (playerHp > 0 && slimeHp > 0)
 
     int playerInput = int.Parse(Console.ReadLine());//等待玩家输出行动
 
-    int slimeMove = Random.Shared.Next(0,2);//先随机史莱姆的行为,0为攻击,1为闪避
+    int slimeMove = Random.Shared.Next(0, 2);//先随机史莱姆的行为,0为攻击,1为闪避
 
     int playerPoint = Random.Shared.Next(1, 7);
     int slimePoint = Random.Shared.Next(1, 7);//随机双方掷骰子点数,如果点数为6会暴击,造成双倍伤害
@@ -87,6 +87,8 @@ while (playerHp > 0 && slimeHp > 0)
         Console.WriteLine("你发动了攻击!");
         if (playerPoint > slimePoint)//若玩家先手
         {
+            Console.WriteLine($"你的点数为{playerPoint}");
+            Console.WriteLine($"对方的点数为{slimePoint}");
             Console.WriteLine("你先手!");
             if (playerPoint == 6)//判定是否暴击
             {
@@ -115,7 +117,7 @@ while (playerHp > 0 && slimeHp > 0)
 
             if (playerPoint == 6)
             {
-                Console.WriteLine($"你对史莱姆造成{playerAttack*2}点伤害!\n对方剩余HP:{slimeHp}");
+                Console.WriteLine($"你对史莱姆造成{playerAttack * 2}点伤害!\n对方剩余HP:{slimeHp}");
             }
             else
             {
@@ -154,8 +156,10 @@ while (playerHp > 0 && slimeHp > 0)
                 Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
             }
         }
-        else if(slimePoint > playerPoint)//若史莱姆先手
+        else if (slimePoint > playerPoint)//若史莱姆先手
         {
+            Console.WriteLine($"你的点数为{playerPoint}");
+            Console.WriteLine($"对方的点数为{slimePoint}");
             Console.WriteLine("对方先手!");
             if (slimeMove == 1)//若史莱姆闪避,因为是先手,所以没有闪避到攻击
             {
@@ -180,7 +184,7 @@ while (playerHp > 0 && slimeHp > 0)
                 playerHp = 0;
             }
 
-            if(slimeMove == 0)//这里需要判定史莱姆是否为攻击行为,否则在闪避后仍会攻击玩家
+            if (slimeMove == 0)//这里需要判定史莱姆是否为攻击行为,否则在闪避后仍会攻击玩家
             {
                 if (slimePoint == 6)
                 {
@@ -221,20 +225,303 @@ while (playerHp > 0 && slimeHp > 0)
                 Console.WriteLine($"你对史莱姆造成{playerAttack}点伤害!\n对方剩余HP:{slimeHp}");
             }
         }
-        else if(playerPoint == slimePoint)
+        else if (playerPoint == slimePoint)//若双方点数相同
         {
-            Console.WriteLine("双方点数相同重投");
-            continue;
+            Console.WriteLine($"你的点数为{playerPoint}");
+            Console.WriteLine($"对方的点数为{slimePoint}");
+            Console.WriteLine("点数相同,双方同时行动!");
+            if (slimeMove == 0)//若史莱姆攻击
+            {
+                if (slimePoint == 6)//先判定是否暴击
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                    playerHp -= slimeAttack * 2;
+                }
+                else
+                {
+                    playerHp -= slimeAttack;
+                }
+
+                if (playerHp < 0)//重置血量为0
+                {
+                    playerHp = 0;
+                }
+
+                if (slimePoint == 6)//输出结果也需要进行是否暴击的判定
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack * 2}点伤害!\n你剩余HP:{playerHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
+                }
+
+                if (playerPoint == 6)//判定玩家暴击
+                {
+                    Console.WriteLine("你暴击了!");
+                    slimeHp -= playerAttack * 2;
+                }
+                else
+                {
+                    slimeHp -= playerAttack;
+                }
+
+                if (slimeHp < 0)//重置血量为0
+                {
+                    slimeHp = 0;
+                }
+
+                if (playerPoint == 6)//是否暴击对输出结果产生影响
+                {
+                    Console.WriteLine($"你对史莱姆造成{playerAttack * 2}点伤害!\n对方剩余HP:{slimeHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"你对史莱姆造成{playerAttack}点伤害!\n对方剩余HP:{slimeHp}");
+                }
+            }
+            if (slimeMove == 1)//若史莱姆进行闪避
+            {
+                if (playerPoint == 6)
+                {
+                    Console.WriteLine("你暴击了!");
+                }
+                Console.WriteLine("史莱姆闪避了你的攻击,此次攻击无效!");
+            }
+        }
+    }
+
+    else if (playerInput == 2)//若玩家闪避
+    {
+        Console.WriteLine("你使用了闪避!");
+        if (slimeMove == 1)//若史莱姆闪避
+        {
+            Console.WriteLine("史莱姆使用了闪避!");
         }
 
-    if (playerInput == 2)//若玩家闪避
+        if (slimeMove == 0)//若史莱姆攻击
         {
-            Console.WriteLine("");
+            Console.WriteLine("史莱姆发动了攻击!");
+            Console.WriteLine($"你的点数为{playerPoint}");
+            Console.WriteLine($"对方的点数为{slimePoint}");
+
+            if (slimePoint >= playerPoint)//若史莱姆先手
+            {
+
+                if (slimePoint > playerPoint)
+                {
+                    Console.WriteLine("对方先手!");
+                }
+
+                if (slimePoint == playerPoint)
+                {
+                    Console.WriteLine("双方点数相同!同时出手!");
+                }
+
+                if (slimePoint == 6)//判定暴击
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                }
+
+                Console.WriteLine("你闪避了对方的攻击!");
+            }
+            else//若玩家先手
+            {
+                Console.WriteLine("闪避失效!似乎没有作用!");
+
+                if (slimePoint == 6)
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                    playerHp -= slimeAttack * 2;
+                }
+                else
+                {
+                    playerHp -= slimeAttack;
+                }
+
+                if (slimePoint == 6)//输出结果也需要进行是否暴击的判定
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack * 2}点伤害!\n你剩余HP:{playerHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
+                }
+            }
+        }
+    }
+
+    else if (playerInput == 3)//若玩家回血
+    {
+        Console.WriteLine("你使用了药剂!");
+        Console.WriteLine($"你的点数为{playerPoint}");
+        Console.WriteLine($"对方的点数为{slimePoint}");
+
+        if (slimePoint > playerPoint)//若史莱姆先手
+        {
+            Console.WriteLine("对方先手!");
+
+            if (slimeMove == 0)//若史莱姆攻击
+            {
+                Console.WriteLine("史莱姆发动了攻击!");                
+
+                if (slimePoint == 6)//判定暴击
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                    playerHp -= slimeAttack * 2;
+                }
+                else
+                {
+                    playerHp -= slimeAttack;
+                }
+
+                if (playerHp < 0)//血量归零
+                {
+                    playerHp = 0;
+                }
+
+                if (slimePoint == 6)//输出结果也需要进行是否暴击的判定
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack * 2}点伤害!\n你剩余HP:{playerHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
+                }
+
+                if (playerHp == 0)//判定玩家是否死亡
+                {
+                    continue;
+                }
+
+                playerHp += hpPotion;//玩家回血
+
+                if(playerHp > 100)//设置血量上限
+                {
+                    playerHp = 100;
+                }
+
+                Console.WriteLine($"回复25点HP,你当前的HP:{playerHp}");
+            }
+            else//若史莱姆闪避
+            {
+                Console.WriteLine("史莱姆使用了闪避!但似乎没有效果!");
+
+                playerHp += hpPotion;//玩家回血
+
+                if (playerHp > 100)//设置血量上限
+                {
+                    playerHp = 100;
+                }
+
+                Console.WriteLine($"回复25点HP,你当前的HP:{playerHp}");
+            }
         }
 
+        if (slimePoint < playerPoint)//若史莱姆后手
+        {
+            Console.WriteLine("你先手!");
+
+            playerHp += hpPotion;//玩家回血
+
+            if (playerHp > 100)//设置血量上限
+            {
+                playerHp = 100;
+            }
+
+            Console.WriteLine($"回复25点HP,你当前的HP:{playerHp}");
+
+            if (slimeMove == 0)//若史莱姆攻击
+            {
+                Console.WriteLine("史莱姆发动了攻击!");
+
+                if (slimePoint == 6)//判定暴击
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                    playerHp -= slimeAttack * 2;
+                }
+                else
+                {
+                    playerHp -= slimeAttack;
+                }
+
+                if (playerHp < 0)//血量归零
+                {
+                    playerHp = 0;
+                }
+
+                if (slimePoint == 6)//输出结果也需要进行是否暴击的判定
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack * 2}点伤害!\n你剩余HP:{playerHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
+                }
+            }
+            else//若史莱姆闪避
+            {
+                Console.WriteLine("史莱姆使用了闪避!但似乎没有效果!");   
+            }
+        }
+
+        if (slimePoint == playerPoint)//双方同时行动
+        {
+            Console.WriteLine("点数相同!双方同时行动!");
+
+            if (slimeMove == 0)//若史莱姆攻击
+            {
+                Console.WriteLine("史莱姆发动了攻击!");
+
+                if (slimePoint == 6)//判定暴击
+                {
+                    Console.WriteLine("史莱姆暴击了!");
+                    playerHp -= slimeAttack * 2;
+                }
+                else
+                {
+                    playerHp -= slimeAttack;
+                }
+
+                if (playerHp < 0)//血量归零
+                {
+                    playerHp = 0;
+                }
+
+                if (slimePoint == 6)//输出结果也需要进行是否暴击的判定
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack * 2}点伤害!\n你剩余HP:{playerHp}");
+                }
+                else
+                {
+                    Console.WriteLine($"史莱姆对你造成{slimeAttack}点伤害!\n你剩余HP:{playerHp}");
+                }
+
+                playerHp += hpPotion;//玩家回血
+
+                if (playerHp > 100)//设置血量上限
+                {
+                    playerHp = 100;
+                }
+
+                Console.WriteLine($"回复25点HP,你当前的HP:{playerHp}");
+            }
+            else//若史莱姆闪避
+            {
+                Console.WriteLine("史莱姆使用了闪避!但似乎没有效果!");
+
+                playerHp += hpPotion;//玩家回血
+
+                if (playerHp > 100)//设置血量上限
+                {
+                    playerHp = 100;
+                }
+
+                Console.WriteLine($"回复25点HP,你当前的HP:{playerHp}");
+            }
+        }
     }
 }
-
 if (playerHp == 0)
 {
     Console.WriteLine("\n玩家死亡");
