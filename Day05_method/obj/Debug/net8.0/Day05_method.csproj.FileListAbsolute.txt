@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day05_method\bin\Debug\net8.0\Day05_method.exe
+F:\GameDeveloperLearning\Day05_method\bin\Debug\net8.0\Day05_method.deps.json
+F:\GameDeveloperLearning\Day05_method\bin\Debug\net8.0\Day05_method.runtimeconfig.json
+F:\GameDeveloperLearning\Day05_method\bin\Debug\net8.0\Day05_method.dll
+F:\GameDeveloperLearning\Day05_method\bin\Debug\net8.0\Day05_method.pdb
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.sourcelink.json
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.dll
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\refint\Day05_method.dll
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.pdb
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\Day05_method.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day05_method\obj\Debug\net8.0\ref\Day05_method.dll
