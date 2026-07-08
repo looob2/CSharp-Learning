@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day06_array\bin\Debug\net8.0\Day06_array.exe
+F:\GameDeveloperLearning\Day06_array\bin\Debug\net8.0\Day06_array.deps.json
+F:\GameDeveloperLearning\Day06_array\bin\Debug\net8.0\Day06_array.runtimeconfig.json
+F:\GameDeveloperLearning\Day06_array\bin\Debug\net8.0\Day06_array.dll
+F:\GameDeveloperLearning\Day06_array\bin\Debug\net8.0\Day06_array.pdb
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.sourcelink.json
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.dll
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\refint\Day06_array.dll
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.pdb
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\Day06_array.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day06_array\obj\Debug\net8.0\ref\Day06_array.dll
