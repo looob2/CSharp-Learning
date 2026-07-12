@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\bin\Debug\net8.0\Day09_Optional Parameters and Named Arguments.exe
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\bin\Debug\net8.0\Day09_Optional Parameters and Named Arguments.deps.json
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\bin\Debug\net8.0\Day09_Optional Parameters and Named Arguments.runtimeconfig.json
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\bin\Debug\net8.0\Day09_Optional Parameters and Named Arguments.dll
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\bin\Debug\net8.0\Day09_Optional Parameters and Named Arguments.pdb
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.sourcelink.json
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.dll
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\refint\Day09_Optional Parameters and Named Arguments.dll
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.pdb
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\Day09_Optional Parameters and Named Arguments.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day09_Optional Parameters and Named Arguments\obj\Debug\net8.0\ref\Day09_Optional Parameters and Named Arguments.dll

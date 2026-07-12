@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day09_Optional Parameters and Named Arguments", "Day09_Optional Parameters and Named Arguments.csproj", "{B57E07AB-371D-4832-A269-BFA7D4D4A08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57E07AB-371D-4832-A269-BFA7D4D4A08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57E07AB-371D-4832-A269-BFA7D4D4A08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57E07AB-371D-4832-A269-BFA7D4D4A08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57E07AB-371D-4832-A269-BFA7D4D4A08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63BF6B4-2F2D-4A5C-A14F-CA93CEE53F37}
+	EndGlobalSection
+EndGlobal
