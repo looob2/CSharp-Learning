@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day10_enum and struct\bin\Debug\net8.0\Day10_enum and struct.exe
+F:\GameDeveloperLearning\Day10_enum and struct\bin\Debug\net8.0\Day10_enum and struct.deps.json
+F:\GameDeveloperLearning\Day10_enum and struct\bin\Debug\net8.0\Day10_enum and struct.runtimeconfig.json
+F:\GameDeveloperLearning\Day10_enum and struct\bin\Debug\net8.0\Day10_enum and struct.dll
+F:\GameDeveloperLearning\Day10_enum and struct\bin\Debug\net8.0\Day10_enum and struct.pdb
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.sourcelink.json
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.dll
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\refint\Day10_enum and struct.dll
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.pdb
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\Day10_enum and struct.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day10_enum and struct\obj\Debug\net8.0\ref\Day10_enum and struct.dll
