@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.sourcelink.json
+F:\GameDeveloperLearning\Day14_List\bin\Debug\net8.0\Day14_List.exe
+F:\GameDeveloperLearning\Day14_List\bin\Debug\net8.0\Day14_List.deps.json
+F:\GameDeveloperLearning\Day14_List\bin\Debug\net8.0\Day14_List.runtimeconfig.json
+F:\GameDeveloperLearning\Day14_List\bin\Debug\net8.0\Day14_List.dll
+F:\GameDeveloperLearning\Day14_List\bin\Debug\net8.0\Day14_List.pdb
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.dll
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\refint\Day14_List.dll
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.pdb
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\Day14_List.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day14_List\obj\Debug\net8.0\ref\Day14_List.dll
