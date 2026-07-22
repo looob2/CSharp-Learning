@@ -24,7 +24,11 @@ class Player : Creature
     {
         Attack += weapon.Attack;
         Console.WriteLine($"装备了武器!目前攻击力:{Attack}");
-        weapon.Count--;
+    }
+    public void TakeOff(Weapon weapon)
+    {
+        Attack -= weapon.Attack;
+        Console.WriteLine($"卸下了装备{weapon.Name}!目前攻击力:{Attack}");
     }
     public void Use(Potion potion)
     {
@@ -57,7 +61,7 @@ class Weapon : Item
 
     public void WeaponInfo()//展示信息
     {
-        Console.WriteLine($"\n武器信息:{Name}\nATK:{Attack}\n数量:{Count}\n1.装备武器2.返回");
+        Console.WriteLine($"\n武器信息:{Name}\nATK:{Attack}\n数量:{Count}\n1.装备武器2.丢弃3.返回");
     }
 }
 class Potion : Item
@@ -70,7 +74,7 @@ class Potion : Item
 
     public void PotionInfo()//展示信息
     {
-        Console.WriteLine($"\n药品信息:{Name}\nATK:{AddHp}\n数量:{Count}\n1.喝下药水2.返回");
+        Console.WriteLine($"\n药品信息:{Name}\nATK:{AddHp}\n数量:{Count}\n1.喝下药水2.丢弃3.返回");
     }
 }
 class Package
@@ -83,52 +87,98 @@ class Package
         Console.WriteLine($"获取{item.Name}!数量:{item.Count}");
     }
 
+    private List<Weapon> items_weapon = new List<Weapon>();//创建武器数组,用来存放装备在身上的武器
+
+    private void Add_Weapon(Weapon weapon)
+    {
+        items_weapon.Add(weapon);
+    }
+
     public void PackageInfo(Player player)//展示背包信息
     {
         Console.WriteLine("\n背包信息");
         for (int i = 0; i < items.Count; i++)//i是items[]中检索的序号
         {
-        Item item = items[i];//创建一个Item类的item,这样不管是Weapon还是Potion都可以存放进来
-        Console.WriteLine((i+1) + "." + item.Name);
+            Item item = items[i];//创建一个Item类的item,这样不管是Weapon还是Potion都可以存放进来
+            Console.WriteLine((i+1) + "." + item.Name);
         }
 
-        int input = int.Parse(Console.ReadLine()) - 1;//数组是从0开始的,所以跟界面展示的数字不同,需要-1
-        if (items[input] is Weapon weapon)//如果对应的为Weapon类
+        int input_package = int.Parse(Console.ReadLine()) - 1;//数组是从0开始的,所以跟界面展示的数字不同,需要-1
+        if (items[input_package] is Weapon weapon)//如果对应的为Weapon类
         {
             weapon.WeaponInfo();//展示物品信息
-            int input1 = int.Parse(Console.ReadLine());//输入数字来选择物品
-            if (input1 == 1)//使用物品
+            int input_item = int.Parse(Console.ReadLine());//输入数字来选择物品
+            if (input_item == 1)//使用物品
             {
-                player.Use(weapon);
-                if (weapon.Count == 0)//检测数量是否为零,为零则移出数组
+                Add_Weapon(weapon);//添加物品到装备栏
+
+                if (items_weapon[0] != weapon)
                 {
-                    items.RemoveAt(input);
+                    Add(items_weapon[0]);//卸下来的装备放回背包
+                    player.TakeOff(items_weapon[0]);//减攻击力
+                    items_weapon.RemoveAt(0);//从装备栏中移除
                 }
+
+                player.Use(weapon);
+
+                items.RemoveAt(input_package);//直接移出数组
+
                 PackageInfo(player);//返回菜单
             }
-            else if (input1 == 2)//返回
+            else if (input_item == 2)//丢弃
+            {
+                Discard(weapon);
+                if (weapon.Count == 0)
+                {
+                    items.RemoveAt(input_package);
+                }
+                PackageInfo(player);
+            }
+            else if (input_item == 3)//返回
             {
                 PackageInfo(player);
             }
         }
-        else if (items[input] is Potion potion)//如果对应的为Potion类
+        else if (items[input_package] is Potion potion)//如果对应的为Potion类
         {
             potion.PotionInfo();//展示物品信息
-            int input1 = int.Parse(Console.ReadLine());//输入数字来选择物品
-            if (input1 == 1)//使用物品
+            int input_item = int.Parse(Console.ReadLine());//输入数字来选择物品
+            if (input_item == 1)//使用物品
             {
                 player.Use(potion);
                 if (potion.Count == 0)//检测数量是否为零,为零则移出数组
                 {
-                    items.RemoveAt(input);
+                    items.RemoveAt(input_package);
                 }
                 PackageInfo(player);//返回菜单
             }
-            else if (input1 == 2)//返回
+            else if (input_item == 2)//丢弃
+            {
+                Discard(potion);
+                if (potion.Count == 0)
+                {
+                    items.RemoveAt(input_package);
+                }
+                PackageInfo(player);
+            }
+            else if (input_item == 3)//返回
             {
                 PackageInfo(player);
             }
         }
+    }
+
+    public void Discard(Item item)//丢弃物品
+    {
+        Console.WriteLine("请输入要丢弃物品的数量:");
+        int input_discard = int.Parse(Console.ReadLine());
+
+        if (input_discard > item.Count)//防止输入的数字大于物品的数量
+        {
+            input_discard = item.Count;
+        }
+
+        item.Count -= input_discard;
     }
 }
 class Program
