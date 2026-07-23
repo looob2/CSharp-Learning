@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day16_Dictionary\bin\Debug\net8.0\Day16_Dictionary.exe
+F:\GameDeveloperLearning\Day16_Dictionary\bin\Debug\net8.0\Day16_Dictionary.deps.json
+F:\GameDeveloperLearning\Day16_Dictionary\bin\Debug\net8.0\Day16_Dictionary.runtimeconfig.json
+F:\GameDeveloperLearning\Day16_Dictionary\bin\Debug\net8.0\Day16_Dictionary.dll
+F:\GameDeveloperLearning\Day16_Dictionary\bin\Debug\net8.0\Day16_Dictionary.pdb
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.sourcelink.json
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.dll
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\refint\Day16_Dictionary.dll
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.pdb
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\Day16_Dictionary.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day16_Dictionary\obj\Debug\net8.0\ref\Day16_Dictionary.dll
