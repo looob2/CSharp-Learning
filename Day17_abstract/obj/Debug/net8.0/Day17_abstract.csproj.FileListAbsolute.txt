@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day17_abstract\bin\Debug\net8.0\Day17_abstract.exe
+F:\GameDeveloperLearning\Day17_abstract\bin\Debug\net8.0\Day17_abstract.deps.json
+F:\GameDeveloperLearning\Day17_abstract\bin\Debug\net8.0\Day17_abstract.runtimeconfig.json
+F:\GameDeveloperLearning\Day17_abstract\bin\Debug\net8.0\Day17_abstract.dll
+F:\GameDeveloperLearning\Day17_abstract\bin\Debug\net8.0\Day17_abstract.pdb
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.sourcelink.json
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.dll
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\refint\Day17_abstract.dll
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.pdb
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\Day17_abstract.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day17_abstract\obj\Debug\net8.0\ref\Day17_abstract.dll
