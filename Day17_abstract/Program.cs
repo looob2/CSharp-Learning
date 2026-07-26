@@ -1,69 +1,97 @@
 ﻿using System.Security;
 
-interface Iregister
+interface Iregister//注册接口
 {
     void register();
 }
 class Person : Iregister
 {
-    public void register()
-    {
-        Console.WriteLine("人已登记!");
-    }
+    public void register() { }
 }
 class Car : Iregister
 {
-    public void register()
-    {
-        Console.WriteLine("车已登记!");
-    }
+    public void register() { }
 }
 class Hourse : Iregister
 {
-    public void register()
-    {
-        Console.WriteLine("房已登记!");
-    }
+    public void register() { }
 }
 
-interface Ifly
+interface Ifly//飞
 {
     void fly();
 }
-interface Iwalk
+interface Iwalk//走
 {
     void walk();
 }
-interface Iswim
+interface Iswim//游
 {
     void swim();
 }
-class Animal : Ifly , Iswim , Iwalk
+class Animal
 {
-    public void walk() { }
+
+}
+class Sparrow : Animal ,Ifly , Iwalk
+{
     public void fly() { }
+    public void walk() { }
+}
+class Swan : Animal ,Ifly , Iwalk , Iswim
+{
+    public void fly() { }
+    public void walk() { }
     public void swim() { }
 }
-class sparrow : Animal
+class Parrot : Animal, Ifly, Iwalk
 {
     public void fly() { }
     public void walk() { }
 }
-class swan : Animal
+class Ostrich : Animal , Iwalk
 {
-    public void fly() { }
     public void walk() { }
 }
-class parrot : Animal
-{
-    public void fly() { }
-    public void walk() { }
-}
-class ostrich : Animal
+class Penguin : Animal , Iswim , Iwalk
 {
     public void walk() { }
+    public void swim() { }
 }
 class Helicopter : Ifly
 {
     public void fly() { }
+}
+
+interface IUSB
+{
+    void transfer();
+}
+class MP3 : IUSB
+{
+    public void transfer() 
+    {
+        Console.WriteLine("MP3传输数据");
+    }
+}
+class SSD : IUSB
+{
+    public void transfer()
+    {
+        Console.WriteLine("移动硬盘传输数据");
+    }
+}
+class UDisk : IUSB
+{
+    public void transfer()
+    {
+        Console.WriteLine("U盘传输数据");
+    }
+}
+class Computer
+{
+    public void Read (IUSB usb)
+    {
+        usb.transfer();
+    }
 }
