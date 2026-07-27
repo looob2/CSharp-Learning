@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day19_switch\bin\Debug\net8.0\Day19_switch.exe
+F:\GameDeveloperLearning\Day19_switch\bin\Debug\net8.0\Day19_switch.deps.json
+F:\GameDeveloperLearning\Day19_switch\bin\Debug\net8.0\Day19_switch.runtimeconfig.json
+F:\GameDeveloperLearning\Day19_switch\bin\Debug\net8.0\Day19_switch.dll
+F:\GameDeveloperLearning\Day19_switch\bin\Debug\net8.0\Day19_switch.pdb
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.sourcelink.json
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.dll
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\refint\Day19_switch.dll
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.pdb
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\Day19_switch.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day19_switch\obj\Debug\net8.0\ref\Day19_switch.dll
