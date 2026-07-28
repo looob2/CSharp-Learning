@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day21_static\bin\Debug\net8.0\Day21_static.exe
+F:\GameDeveloperLearning\Day21_static\bin\Debug\net8.0\Day21_static.deps.json
+F:\GameDeveloperLearning\Day21_static\bin\Debug\net8.0\Day21_static.runtimeconfig.json
+F:\GameDeveloperLearning\Day21_static\bin\Debug\net8.0\Day21_static.dll
+F:\GameDeveloperLearning\Day21_static\bin\Debug\net8.0\Day21_static.pdb
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.sourcelink.json
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.dll
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\refint\Day21_static.dll
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.pdb
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\Day21_static.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day21_static\obj\Debug\net8.0\ref\Day21_static.dll
