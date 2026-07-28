@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day20_Indexer\bin\Debug\net8.0\Day20_Indexer.exe
+F:\GameDeveloperLearning\Day20_Indexer\bin\Debug\net8.0\Day20_Indexer.deps.json
+F:\GameDeveloperLearning\Day20_Indexer\bin\Debug\net8.0\Day20_Indexer.runtimeconfig.json
+F:\GameDeveloperLearning\Day20_Indexer\bin\Debug\net8.0\Day20_Indexer.dll
+F:\GameDeveloperLearning\Day20_Indexer\bin\Debug\net8.0\Day20_Indexer.pdb
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.sourcelink.json
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.dll
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\refint\Day20_Indexer.dll
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.pdb
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\Day20_Indexer.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day20_Indexer\obj\Debug\net8.0\ref\Day20_Indexer.dll
