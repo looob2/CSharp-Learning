@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day22_Extension Methods\bin\Debug\net8.0\Day22_Extension Methods.exe
+F:\GameDeveloperLearning\Day22_Extension Methods\bin\Debug\net8.0\Day22_Extension Methods.deps.json
+F:\GameDeveloperLearning\Day22_Extension Methods\bin\Debug\net8.0\Day22_Extension Methods.runtimeconfig.json
+F:\GameDeveloperLearning\Day22_Extension Methods\bin\Debug\net8.0\Day22_Extension Methods.dll
+F:\GameDeveloperLearning\Day22_Extension Methods\bin\Debug\net8.0\Day22_Extension Methods.pdb
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.sourcelink.json
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.dll
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\refint\Day22_Extension Methods.dll
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.pdb
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\Day22_Extension Methods.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day22_Extension Methods\obj\Debug\net8.0\ref\Day22_Extension Methods.dll
