@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day24_Inheritance\bin\Debug\net8.0\Day24_Inheritance.exe
+F:\GameDeveloperLearning\Day24_Inheritance\bin\Debug\net8.0\Day24_Inheritance.deps.json
+F:\GameDeveloperLearning\Day24_Inheritance\bin\Debug\net8.0\Day24_Inheritance.runtimeconfig.json
+F:\GameDeveloperLearning\Day24_Inheritance\bin\Debug\net8.0\Day24_Inheritance.dll
+F:\GameDeveloperLearning\Day24_Inheritance\bin\Debug\net8.0\Day24_Inheritance.pdb
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.sourcelink.json
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.dll
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\refint\Day24_Inheritance.dll
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.pdb
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\Day24_Inheritance.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day24_Inheritance\obj\Debug\net8.0\ref\Day24_Inheritance.dll
