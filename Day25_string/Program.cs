@@ -1,4 +1,6 @@
-﻿void Reverse(char[] chars)
+﻿using System.Text;
+
+void Reverse(char[] chars)
 {
     int left = 0;
     int right = chars.Length - 1;
@@ -20,6 +22,7 @@ foreach (string s in strs)
 {
     Console.WriteLine(s);
 }
-string? str1 = Console.ReadLine();
-char[] chars = str.ToCharArray();
-Reverse(chars);
+
+StringBuilder strb = new StringBuilder("1145141919810");//初始化
+Console.WriteLine(strb);
+Console.WriteLine(strb.Capacity);//容量

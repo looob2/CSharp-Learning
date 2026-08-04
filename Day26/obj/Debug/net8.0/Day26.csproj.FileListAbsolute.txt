@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day26\bin\Debug\net8.0\Day26.exe
+F:\GameDeveloperLearning\Day26\bin\Debug\net8.0\Day26.deps.json
+F:\GameDeveloperLearning\Day26\bin\Debug\net8.0\Day26.runtimeconfig.json
+F:\GameDeveloperLearning\Day26\bin\Debug\net8.0\Day26.dll
+F:\GameDeveloperLearning\Day26\bin\Debug\net8.0\Day26.pdb
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.sourcelink.json
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.dll
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\refint\Day26.dll
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.pdb
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\Day26.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day26\obj\Debug\net8.0\ref\Day26.dll
