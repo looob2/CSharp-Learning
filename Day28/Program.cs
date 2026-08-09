@@ -24,9 +24,91 @@ void judge<T>()
     }
 }
 
-judge<int>();
-judge<char>();
-judge<string>();
-judge<float>();
-judge<double>();
+class Singleton<T> where T : class, new()
+{
+    private static T instance;
+    public static T Instance
+    {
+        get
+        {
+            if(instance == null)
+            {
+                instance = new T();
+            }
+
+            return instance;
+        }
+    }
+}
+
+class GameManager
+{
+    public void StartGame()
+    {
+        Console.WriteLine("start");
+    }
+}
+
+class MyArrayList<T>
+{
+    private T[] array;
+    private int count;
+
+    public MyArrayList()
+    {
+        array = new T[4];
+        count = 0;
+    }
+
+    private void Expand()
+    {
+        T[] newarray = new T[array.Length * 2];
+        for (int i = 0; i < array.Length; i++)
+        {
+            newarray[i] = array[i];
+        }
+        array = newarray;
+    }
+
+    public void Add(T value)
+    {
+        if(count >= array.Length)
+        {
+            Expand();
+        }
+        array[count] = value;
+        count++;
+    }
+
+    public T Get(int index)
+    {
+        if (index < 0 || index >= count)//这里不用array.Length的原因是因为count是数组中已经有的数,array.Length会包含空字符
+        {
+            throw new IndexOutOfRangeException();
+        }
+        return array[index];
+    }
+
+    public void Set(int index , T t)
+    {
+        if (index < 0 || index >= count)
+        {
+            throw new IndexOutOfRangeException();
+        }
+        array[index] = t;
+    }
+
+    public void RemoveAt(int index)
+    {
+        if (index < 0 || index >= count)
+        {
+            throw new IndexOutOfRangeException();
+        }
+        for (int i = index; i < count; i++)
+        {
+            array[i] = array[i + 1];
+        }
+        count--;
+    }
+}
 
