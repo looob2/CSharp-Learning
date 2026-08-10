@@ -24,6 +24,50 @@ void judge<T>()
     }
 }
 
+List<int> list = new List<int>() { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 };
+list.RemoveAt(4);
+foreach (int i in list)
+{
+    Console.WriteLine(i);
+}
+
+Boss boss = new Boss();
+Gablin gablin = new Gablin();
+foreach (Monster m in Monster.monsters)
+{
+    m.Attack();
+}
+
+class Monster
+{
+    public static List<Monster> monsters = new List<Monster>();
+    public Monster()
+    {
+        monsters.Add(this);
+    }
+    public virtual void Attack()
+    {
+
+    }
+
+}
+
+class Boss : Monster
+{
+    public override void Attack()
+    {
+        Console.WriteLine("Boss攻击");
+    }
+}
+
+class Gablin : Monster
+{
+    public override void Attack()
+    {
+        Console.WriteLine("Gablin攻击");
+    }
+}
+
 class Singleton<T> where T : class, new()
 {
     private static T instance;
