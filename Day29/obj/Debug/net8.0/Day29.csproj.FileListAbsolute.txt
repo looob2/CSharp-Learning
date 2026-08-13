@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day29\bin\Debug\net8.0\Day29.exe
+F:\GameDeveloperLearning\Day29\bin\Debug\net8.0\Day29.deps.json
+F:\GameDeveloperLearning\Day29\bin\Debug\net8.0\Day29.runtimeconfig.json
+F:\GameDeveloperLearning\Day29\bin\Debug\net8.0\Day29.dll
+F:\GameDeveloperLearning\Day29\bin\Debug\net8.0\Day29.pdb
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.sourcelink.json
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.dll
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\refint\Day29.dll
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.pdb
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\Day29.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day29\obj\Debug\net8.0\ref\Day29.dll
