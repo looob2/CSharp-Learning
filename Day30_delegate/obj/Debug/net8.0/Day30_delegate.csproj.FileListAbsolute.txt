@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day30_delegate\bin\Debug\net8.0\Day30_delegate.exe
+F:\GameDeveloperLearning\Day30_delegate\bin\Debug\net8.0\Day30_delegate.deps.json
+F:\GameDeveloperLearning\Day30_delegate\bin\Debug\net8.0\Day30_delegate.runtimeconfig.json
+F:\GameDeveloperLearning\Day30_delegate\bin\Debug\net8.0\Day30_delegate.dll
+F:\GameDeveloperLearning\Day30_delegate\bin\Debug\net8.0\Day30_delegate.pdb
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.sourcelink.json
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.dll
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\refint\Day30_delegate.dll
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.pdb
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\Day30_delegate.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day30_delegate\obj\Debug\net8.0\ref\Day30_delegate.dll
