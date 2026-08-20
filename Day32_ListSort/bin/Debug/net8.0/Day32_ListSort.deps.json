@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day32_ListSort/1.0.0": {
+        "runtime": {
+          "Day32_ListSort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day32_ListSort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day32_ListSort\bin\Debug\net8.0\Day32_ListSort.exe
+F:\GameDeveloperLearning\Day32_ListSort\bin\Debug\net8.0\Day32_ListSort.deps.json
+F:\GameDeveloperLearning\Day32_ListSort\bin\Debug\net8.0\Day32_ListSort.runtimeconfig.json
+F:\GameDeveloperLearning\Day32_ListSort\bin\Debug\net8.0\Day32_ListSort.dll
+F:\GameDeveloperLearning\Day32_ListSort\bin\Debug\net8.0\Day32_ListSort.pdb
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.sourcelink.json
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.dll
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\refint\Day32_ListSort.dll
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.pdb
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\Day32_ListSort.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day32_ListSort\obj\Debug\net8.0\ref\Day32_ListSort.dll
