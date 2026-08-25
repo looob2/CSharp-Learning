@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day33_Type Assembly", "Day33_Type Assembly.csproj", "{C90D2190-A734-4EAE-A36A-C5733F3DBCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "..\Player\Player.csproj", "{AF603CF8-A4CB-4542-A788-4929DA98DB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90D2190-A734-4EAE-A36A-C5733F3DBCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D2190-A734-4EAE-A36A-C5733F3DBCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D2190-A734-4EAE-A36A-C5733F3DBCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90D2190-A734-4EAE-A36A-C5733F3DBCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF603CF8-A4CB-4542-A788-4929DA98DB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF603CF8-A4CB-4542-A788-4929DA98DB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF603CF8-A4CB-4542-A788-4929DA98DB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF603CF8-A4CB-4542-A788-4929DA98DB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49368C5F-7F73-42F9-997F-CB17A76EF709}
+	EndGlobalSection
+EndGlobal

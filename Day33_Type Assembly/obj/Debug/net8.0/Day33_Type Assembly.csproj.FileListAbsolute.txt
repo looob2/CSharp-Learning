@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day33_Type Assembly\bin\Debug\net8.0\Day33_Type Assembly.exe
+F:\GameDeveloperLearning\Day33_Type Assembly\bin\Debug\net8.0\Day33_Type Assembly.deps.json
+F:\GameDeveloperLearning\Day33_Type Assembly\bin\Debug\net8.0\Day33_Type Assembly.runtimeconfig.json
+F:\GameDeveloperLearning\Day33_Type Assembly\bin\Debug\net8.0\Day33_Type Assembly.dll
+F:\GameDeveloperLearning\Day33_Type Assembly\bin\Debug\net8.0\Day33_Type Assembly.pdb
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.sourcelink.json
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.dll
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\refint\Day33_Type Assembly.dll
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.pdb
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\Day33_Type Assembly.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day33_Type Assembly\obj\Debug\net8.0\ref\Day33_Type Assembly.dll

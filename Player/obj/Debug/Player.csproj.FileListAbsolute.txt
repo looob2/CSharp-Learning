@@ -1,0 +1,6 @@
+F:\GameDeveloperLearning\Player\bin\Debug\Player.dll
+F:\GameDeveloperLearning\Player\bin\Debug\Player.pdb
+F:\GameDeveloperLearning\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+F:\GameDeveloperLearning\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Player\obj\Debug\Player.dll
+F:\GameDeveloperLearning\Player\obj\Debug\Player.pdb
