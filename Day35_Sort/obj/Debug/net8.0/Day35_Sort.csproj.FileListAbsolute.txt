@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day35_Sort\bin\Debug\net8.0\Day35_Sort.exe
+F:\GameDeveloperLearning\Day35_Sort\bin\Debug\net8.0\Day35_Sort.deps.json
+F:\GameDeveloperLearning\Day35_Sort\bin\Debug\net8.0\Day35_Sort.runtimeconfig.json
+F:\GameDeveloperLearning\Day35_Sort\bin\Debug\net8.0\Day35_Sort.dll
+F:\GameDeveloperLearning\Day35_Sort\bin\Debug\net8.0\Day35_Sort.pdb
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.sourcelink.json
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.dll
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\refint\Day35_Sort.dll
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.pdb
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\Day35_Sort.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day35_Sort\obj\Debug\net8.0\ref\Day35_Sort.dll
