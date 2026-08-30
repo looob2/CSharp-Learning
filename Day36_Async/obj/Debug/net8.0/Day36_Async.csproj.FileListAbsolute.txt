@@ -1,0 +1,15 @@
+F:\GameDeveloperLearning\Day36_Async\bin\Debug\net8.0\Day36_Async.exe
+F:\GameDeveloperLearning\Day36_Async\bin\Debug\net8.0\Day36_Async.deps.json
+F:\GameDeveloperLearning\Day36_Async\bin\Debug\net8.0\Day36_Async.runtimeconfig.json
+F:\GameDeveloperLearning\Day36_Async\bin\Debug\net8.0\Day36_Async.dll
+F:\GameDeveloperLearning\Day36_Async\bin\Debug\net8.0\Day36_Async.pdb
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.AssemblyInfoInputs.cache
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.AssemblyInfo.cs
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.csproj.CoreCompileInputs.cache
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.sourcelink.json
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.dll
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\refint\Day36_Async.dll
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.pdb
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\Day36_Async.genruntimeconfig.cache
+F:\GameDeveloperLearning\Day36_Async\obj\Debug\net8.0\ref\Day36_Async.dll
